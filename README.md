@@ -1,5 +1,5 @@
 # CustomHandler
-Custom API Handler for APIM 2.1.0
+Custom API Handler for APIM 1.10.0
 
 This handler will validate the post requests by calculating the payload size and drop the message if payload size is greater than 10kb.
 
